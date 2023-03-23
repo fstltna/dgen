@@ -11,9 +11,9 @@ icon:  dgen_icon.png
 title: dGen
 
 apps:
-  dgen:
+  dgen-linux:
     command: dgen
-  dgen_tobin:
+  dgen-tobin:
     command: dgen_tobin
 parts:
   dgen:
